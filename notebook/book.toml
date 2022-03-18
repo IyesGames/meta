@@ -1,0 +1,6 @@
+[book]
+authors = ["Ida Iyes"]
+language = "en"
+multilingual = false
+src = "src"
+title = "IyesGames Dev Notebook"
