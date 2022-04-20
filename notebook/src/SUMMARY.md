@@ -6,4 +6,5 @@
   - [Loopless](./crates/loopless.md)
   - [Dev Console](./crates/devconsole.md)
 - [Bevy Contrib/RFC Ideas](./bevydev.md)
+  - [VisAreas](./bevydev/visareas.md)
 - [Game Project Ideas](./games.md)
